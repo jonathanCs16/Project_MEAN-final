@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "empleadosapp-aa659"
+  },
+  "targets": {
+    "empleadosapp-aa659": {
+      "hosting": {
+        "Empleados": [
+          "empleadosapp-aa659"
+        ]
+      }
+    }
+  }
+}
